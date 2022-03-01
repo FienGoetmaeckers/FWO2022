@@ -1,5 +1,5 @@
 # FWO2022
-Python interactive code to explore the paradigm and the computational model discussed in Fien Goetmaeckers' FWO PhD FR project proposal.
+Python interactive code to explore the paradigm and the computational model discussed in Fien Goetmaeckers' FWO PhD FR project proposal (application number 98579).
 
 Execute Experiment_runner.py. Modules create_grids.py and solving_models.py are needed to run the program. Codes are operable in Python 3, needed modules are:
 
